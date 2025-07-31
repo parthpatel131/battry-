@@ -1,9 +1,6 @@
 import streamlit as st
 import random
 import pandas as pd
-import plotly.graph_objects as go
-import plotly.express as px
-from datetime import datetime, timedelta
 
 # Page configuration
 st.set_page_config(
